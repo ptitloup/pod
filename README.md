@@ -1,16 +1,24 @@
-# Pod, plateforme de gestion de video
+# Pod, plateforme de gestion de video : Nouvelle version à cette adresse https://github.com/EsupPortail/Esup-Pod
 
--------------------------
+---
+📌 **Deprecation Notice**
 
-> Documentation technique : https://github.com/EsupPortail/pod/wiki
->
-> Documentation fonctionnelle : https://www.esup-portail.org/wiki/display/ESPADHERENT/Wiki+application+Pod
->
-> Plugin Moodle : 
->  - Filtre : https://github.com/EsupPortail/moodle-mod_pod-filter
->  - Repository : https://github.com/EsupPortail/moodle-mod_pod
+This repository is deprecated and no more work will be done on this.
+We recommend that you no longer use this version of the application but the one available at this address : https://github.com/EsupPortail/Esup-Pod
+Any more information : https://www.esup-portail.org/wiki/display/ES/esup-pod
 
--------------------------
+---
+
+---
+📌 **Attention, ce dépôt n'est plus maintenu**
+
+Ce dépôt est obsolète et aucun travail supplémentaire ne sera effectué à ce sujet.
+Nous vous recommandons de ne plus utiliser cette version de l'application mais celle disponible à cette adresse : https://github.com/EsupPortail/Esup-Pod
+Plus d'informations : https://www.esup-portail.org/wiki/display/ES/esup-pod 
+
+---
+
+
 # Presentation
 
 ![Pod, plateforme de gestion de vidéo](http://pod.univ-lille1.fr/static/images/share.png "Pod, plateforme de gestion de vidéo")![Esup Portail](https://www.esup-portail.org/sites/esup-portail.org/files/logo-esup%2Baccroche_2.png "Esup Portail")
